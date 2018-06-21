@@ -15,8 +15,8 @@
 - `
 
 - 'Cara Run Bot'
-- Ketik -> `cd `
-- Ketik -> python3 gi4.py
+- Ketik -> ` cd protect `
+- Ketik -> python3 noyan.py
 - Jangan Lupa Kalian isi Dulu Token nya
 - Edit via nano Atau storage
 
